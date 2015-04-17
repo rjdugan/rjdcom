@@ -6,3 +6,4 @@ https://nodejs.org
 http://bower.io
 http://sass-lang.com/
 http://mixture.io/
+http://brackets.io
