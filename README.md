@@ -1,6 +1,6 @@
 # rjdcom
 Portfolio
-<br>http://getbootstrap.com</br>
+http://getbootstrap.com
 https://github.com/twbs/bootstrap
 https://nodejs.org
 http://bower.io
